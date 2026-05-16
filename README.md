@@ -2,7 +2,7 @@
 
 A modern snake game built with React, TypeScript, and HTML5 Canvas. Features a clean white minimalist UI with bilingual support, level progression system, and mobile-friendly controls.
 
-> **Live Demo**: [Play Now](https://now-measurement-subscribers-only.trycloudflare.com)
+> **Live Demo**: [Play Now](https://hzy-xy.github.io/t-snack/)
 
 ## ✨ Features
 
